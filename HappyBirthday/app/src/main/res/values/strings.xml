@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="backgroundimage">backgroundImage</string>
+    <string name="happybirthday">HappyBirthday !!</string>
+    <string name="from_js">from JS</string>
+</resources>
